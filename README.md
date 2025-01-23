@@ -1,2 +1,2 @@
 # LightCode
-用于存储微信公众号中介绍的脚本、函数以及原始数据
+For storing scripts, functions, and raw data presented in WeChat
